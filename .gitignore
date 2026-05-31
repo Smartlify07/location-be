@@ -1,0 +1,4 @@
+node_modules/
+better_auth_migrations/
+.env
+dist/
